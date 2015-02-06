@@ -1,0 +1,1 @@
+When you initialize a repository you create the meta date that git needs to keep track of files in the current directory. You need to do this to get everything ready before you begin to use git and start commiting files.
