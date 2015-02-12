@@ -1,13 +1,26 @@
-Viewing a diff between two different versions of a file is vastly more efficient than trying to manually find differences between files.  Manually looking for differences is error prone and subject to human perceptual limitations.  To humans, the one digit looks virtually indistinguishable from a lower case l for example.  Zeros and letter O's also look very similiar.  A compute can easily discern these difference because it is looking at a digital pattern.
+Viewing a diff between two different versions of a file is vastly more efficient than trying to manually find differences
+between files.  Manually looking for differences is error prone and subject to human perceptual limitations.  To humans, the 
+one digit looks virtually indistinguishable from a lower case l for example.  Zeros and letter O's also look very similiar.  
+A computer can easily discern these difference because it is looking at a digital pattern.
 
-Evan if humans did not have their perception difficulties it still is almost impossible for them to find differences in files over a few dozens lines in length.  It is just not a task humans are good at compared to computers.
+Even if humans did not have their perception difficulties it still is almost impossible for them to find differences in files
+over a few dozens lines in length.  It is just not a task humans are good at compared to computers.
 
-With a good version control system a programmer can be more effiecient simply because they don't actually need to worry as much about versions.  A programmer can make changes to the file, and explore concepts and ideas and be sure that if it all goes bad somewhere along the way, they can get back to a previously working version.
+With a good version control system a programmer can be more effiecient simply because they don't actually need to worry as 
+much about versions.  A programmer can make changes to the file, and explore concepts and ideas and be sure that if it all 
+goes bad somewhere along the way, they can get back to a previously working version.
 
-Manually choosing commits (such as is done with git) has the advantage of having each commit take place at a meaningful time.  A lable can be assigned to each one of these commits so that progress can be tracked.  The disadvantage of manual commits is that you may forget or delay doing them and then accidentally lose some important work.
+Manually choosing commits (such as is done with git) has the advantage of having each commit take place at a meaningful time.
+A lable can be assigned to each one of these commits so that progress can be tracked.  The disadvantage of manual commits is 
+that you may forget or delay doing them and then accidentally lose some important work.
 
-Version control systems, such as git, that are designed specifically to support programming allow tracking of the changes to multiple files every time there is a commit.  This is because programming often involves changes to multiple files that must be compiled or conglomerated in some way to produce the ultimate output. Other systems that allow change tracking, such as Google docs, are intended for the tracking of individual standalone files, so have no provision for the tracking of multiple files at a commit.
+Version control systems, such as git, that are designed specifically to support programming allow tracking of the changes to
+multiple files every time there is a commit.  This is because programming often involves changes to multiple files that must
+be compiled or conglomerated in some way to produce the ultimate output. Other systems that allow change tracking, such as
+Google docs, are intended for the tracking of individual standalone files, so have no provision for the tracking of multiple
+files at a commit.
 
-Using version control allows you to be more confident in trying changes to your code, because you know you could always go back to some previous version.
+Using version control allows you to be more confident in trying changes to your code, because you know you could always go
+back to some previous version.
 
-Am ready to try and use git for all the development in the remainder of this course.
+I am ready to try and use git for all the development in the remainder of this course.
