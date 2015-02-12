@@ -11,5 +11,5 @@ features to a version and then bring those changes back into the master branch w
 When you merge branches you include the changes from both branches. Going forward you will have all the changes together
 in one branch.
 
-One pro of automatic merging is that can save you some work.  Heoever it is possible that it might not do exaactly what
+One pro of automatic merging is that can save you some work.  However it is possible that it might not do exactly what
 you want, so that is a con.
