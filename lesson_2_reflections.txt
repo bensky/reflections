@@ -1,9 +1,15 @@
-When you initialize a repository you create the meta date that git needs to keep track of files in the current directory. You need to do this to get everything ready before you begin to use git and start commiting files.
+When you initialize a repository you create the meta date that git needs to keep track of files in the current directory.
+You need to do this to get everything ready before you begin to use git and start commiting files.
 
-The staging area gives you a place to put files that you think you want to commit without having to commit everything in your working directory. You can also use the staging area if you have multiple files that are being modified under a single logical changes.  Once you have all the modified files ready then you can commit them.
+The staging area gives you a place to put files that you think you want to commit without having to commit everything in
+your working directory. You can also use the staging area if you have multiple files that are being modified under a single
+logical changes.  Once you have all the modified files ready then you can commit them.
 
-You can use branches for a variety of purposes.  For example you could have brnaches for a series of changes to add new features to a version and then bring those changes back into the master branch when you are ready to release your code.
+You can use branches for a variety of purposes.  For example you could have brnaches for a series of changes to add new
+features to a version and then bring those changes back into the master branch when you are ready to release your code.
 
-When you merge branches you include the changes from both branches. Going forward you will have all the changes together in one branch.
+When you merge branches you include the changes from both branches. Going forward you will have all the changes together
+in one branch.
 
-One pro of automatic merging is that can save you some work.  Heoever it is possible that it might not do exaactly what you want, so that is a con.
+One pro of automatic merging is that can save you some work.  Heoever it is possible that it might not do exaactly what
+you want, so that is a con.
