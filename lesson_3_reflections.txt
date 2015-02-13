@@ -1,3 +1,7 @@
 You would want to use a remote repository for a variety of reasons.  First of all it gives you a place away from your local 
 machine to store the files.  If something happens to your local machine you still have the files.  Secondly it is much easier to 
 share files with multiple developers when you have a remote repository.
+
+Fork means make a copy of a repository on GitHub.
+Clone means make a copy of repository on your local store.
+A branch is a label within a repository that you may come back to.
