@@ -8,3 +8,7 @@ A branch is a label within a repository that you may come back to.
 
 It is advantageous to have the last known copy of the remote repository on your local machine so that you can sync with it and
 get the remote changes.
+
+You could collaborate without version control but it would be difficult.  You could have shared folders so that each collaborator
+could see the other's code.  Then you could have a log in each folder so that anyone making a change to their code could log what
+they changed.  Then if someone wanted to merge the chnages in they could theoretically do this using diff and the change log.
