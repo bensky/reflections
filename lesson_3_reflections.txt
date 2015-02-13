@@ -5,3 +5,6 @@ share files with multiple developers when you have a remote repository.
 Fork means make a copy of a repository on GitHub.
 Clone means make a copy of repository on your local store.
 A branch is a label within a repository that you may come back to.
+
+It is advantageous to have the last known copy of the remote repository on your local machine so that you can sync with it and
+get the remote changes.
