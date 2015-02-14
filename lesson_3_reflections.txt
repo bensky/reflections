@@ -12,3 +12,6 @@ get the remote changes.
 You could collaborate without version control but it would be difficult.  You could have shared folders so that each collaborator
 could see the other's code.  Then you could have a log in each folder so that anyone making a change to their code could log what
 they changed.  Then if someone wanted to merge the chnages in they could theoretically do this using diff and the change log.
+
+You might want to make changes in a separate branch instead of master so that you can try out the changes before changing anything 
+in a working master branch.s
